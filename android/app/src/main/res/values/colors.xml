@@ -1,0 +1,7 @@
+<resources>
+    <color name="chronix_bg">#0A0C0F</color>
+    <color name="chronix_surface">#16191F</color>
+    <color name="chronix_deck_a">#2188FF</color>
+    <color name="chronix_deck_b">#FF7A00</color>
+    <color name="chronix_active_green">#4CAF50</color>
+</resources>

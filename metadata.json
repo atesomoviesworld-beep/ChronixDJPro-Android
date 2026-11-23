@@ -1,0 +1,6 @@
+{
+  "name": "ChronixDJ Pro",
+  "description": "Professional dual-deck DJ mixing studio featuring Master, Video, 4-Channel Stems, Settings, and a complete native Android Studio Kotlin project.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

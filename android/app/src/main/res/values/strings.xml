@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChronixDJ Pro</string>
+    <string name="deck_a_placeholder">DECK A: LOAD A SONG</string>
+    <string name="deck_b_placeholder">DECK B: LOAD A SONG</string>
+</resources>
